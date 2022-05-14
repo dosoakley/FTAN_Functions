@@ -6,10 +6,7 @@ Created on Mon Jun  1 14:16:45 2020
 """
 
 """
-FTAN functions that I'm using in my final FTAN analysis.
-Note: Compared to my larger FTAN_functions2 file with multiple versions of many functions,
-this FTAN is equivalent to that FTAN3, and this GetDispersionCurve is equivalent
-to that GetDispersionCurve3.
+Functions for Frequency-Time Analysis (FTAN) of surface waves.
 """
 
 import copy
